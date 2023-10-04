@@ -1,0 +1,49 @@
+CAP 1x
+
+1 D,E (C?) - OK
+2 C [D,E]
+3 A,E (G?) - OK
+4 F,G [B]
+5 G (A,D?) [A,D,F]
+6 E [F]
+7 F [C,E]
+8 B,D,F,G [+E,H,-F,G]
+9  [E]
+10 A,E,F - OK
+11 D (F?) [E]
+12 A,C,D - OK
+13 B,C,D,E (F?) [+A,-D,E]
+14 A,B?!,D,E - OK
+15 C,E?!,F - OK
+16 A,?D - OK
+17 A,B [D,F,G]
+18 B,C (D?) [+F]
+19 A, D!(/E) - OK
+20 E [C]
+21 G [D]
+22 G [+C,F]
+23 A.D - OK
+
+9/23
+
+1 A,D,F (G?)
+2 A (E?)
+3 A
+4 B
+5
+6 E
+7 C
+8 F
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
