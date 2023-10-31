@@ -36,3 +36,12 @@ web.xml: esprimono percorsi
 SOckets: esprimono connessioni
 JNI: esprimono integrazioni
 JDBC (DriverManager, Connection, Statement, ResultSet, SQLException): esprimono memorizzazione
+
+# Java application cat
+
+GUI desktop : AWT (Windowed app), Swing (AWT library), JavaFX (GUI library)
+Web application : Spring (Web framework), Hibernate (ORM framework)
+Mobile
+Enterprise
+Embedded Systems
+Cloud-based
